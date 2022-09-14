@@ -1,4 +1,4 @@
-# docs
+# Docs
 
 ## Local
 1. Run `make deploy-local`
